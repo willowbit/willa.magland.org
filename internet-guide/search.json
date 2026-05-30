@@ -1,0 +1,145 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Willa Magland’s…",
+    "section": "",
+    "text": "Hello! 👋\nMy name is Willa, and welcome to my teeny tiny guide for using the internet! If you haven’t noticed, the web has gone wayyyy downhill recently. You’re probably used to being bombarded with personalized ads, endless algorithms, AI slop, and other nasty stuff 🦠\nThe good news is, there is a better way to use the internet! A way that makes it private, secure, and fun, all at the same time!\nI’m way tired of watching the people I love having negative experiences online, so I made this guide to offer some help. Here, I’ll explain which tools I use (and trust) to keep my web-browsing quick, clean, and private. I’ve tried to be detailed, yet concise, so I hope you will give it a chance!\n\n\n\n\n\n\nTip\n\n\n\nIn a rush? Check out the starter pack for my recommended setup!\n\n\n\n\n\n\n\n\nNote\n\n\n\nTo go to the next page, click the “Background” button at the bottom. You can view all the pages via the menu on the left!",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "search-engines.html",
+    "href": "search-engines.html",
+    "title": "Search Engines",
+    "section": "",
+    "text": "Note\n\n\n\nDuckDuckGo and Startpage are pretty much equally as private, so choose whichever one you like the best. I just happen to like DuckDuckGo, so I ranked it first.\n\n\nWhile a web browser allows you to access things on the internet, a search engine helps you find the websites you’re looking for. Examples of search engines are Google, Yahoo, and my recommendation, DuckDuckGo.\nGoogle has spent millions of dollars trying to make their search engine a go-to source for information. This is very dangerous, and cuts out the user’s ability to select reputable sources from the results. DuckDuckGo does what a search engine is supposed to do: it gives you a list of websites that match your search. From there, you can select the most trustworthy source that suits your needs\nLike other search engines, it has some ads, but these are based on the content of your search and not your personal information. If you install the adblocker I recommend on the next page, uBlock Origin, you won’t see ads at all!\nAnother good alternative is Startpage, which shares a lot of great features with DuckDuckGo.\n\n\n\n\nLink to website\n\n\n\n\nDuckDuckGo 🦆\nhttps://start.duckduckgo.com/\n\n\nStartpage 🔎\nhttps://www.startpage.com\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nDuckDuckGo has an AI summary feature, but it can be turned off permenantly in just two clicks. It also has a mobile app. If you chose Librewolf as your browser, DuckDuckGo is already set as your default search engine.\n\n\n\n\n\n\n\n\nTip\n\n\n\nIf you chose Waterfox as your browser, Startpage is already set as your default search engine.",
+    "crumbs": [
+      "The Guide",
+      "Search Engines"
+    ]
+  },
+  {
+    "objectID": "background.html",
+    "href": "background.html",
+    "title": "Background",
+    "section": "",
+    "text": "Before we start, it’s important to have a basic understanding of what makes a web browsing experience before we change anything.\nIn general, there are three main components that make up your web-browsing experience.\n\nThe browser (Chrome, Firefox, Opera…): the app that allows us to open and look at websites\nThe search engine (Google, DuckDuckGo, Yahoo…): websites which help us find other sites\nBrowser extensions: software that is added on top of the browser to change what it does\n\nIn the next three sections we’ll look at each of these components and choose the best possible options to get things safe and snappy. Each section will have an explanation of each component with links to my recommended apps and websites at the bottom.\nOK let’s goooooo! 🚀",
+    "crumbs": [
+      "Background"
+    ]
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "Conclusion",
+    "section": "",
+    "text": "You made it to the end! 🎉\nFirstly, thank you for reading my guide! If any part was confusing, please let me know and I’ll update it. I hope it made your life a little better, and here’s to a fun, free, and private internet!",
+    "crumbs": [
+      "Conclusion"
+    ]
+  },
+  {
+    "objectID": "browser-extensions.html",
+    "href": "browser-extensions.html",
+    "title": "Browser Extensions",
+    "section": "",
+    "text": "Woo-hoo! Almost done!\nBrowser extensions are bits of software that you layer on top of your web browser to give it extra features. For Firefox and other Firefox-based browsers (like Librewolf and Waterfox), you can download them at https://addons.mozilla.org/. On Chrome and Chrome-based browsers, you can find them at the Chrome Web Store.\nWhile the right extensions can make your web browsing more private, there are a lot of ugly ones out there. In general, it’s best to have only a few, vetted browser extensions to reduce risk and keep things snappy.\n\nAdblocking 🚫\n\n\n\n\n\n\nNote\n\n\n\nGoogle has blocked UBlock Origin in Chrome, hence why I recommend using a Firefox based browser instead. To install it anyway, follow this guide.\n\n\nHaving a good adblocker installed is probably the biggest step you can take to improve your web browsing experience and privacy. Despite what Google tries to make you think, an adblocker is essential security software for the modern web. Not only does a good adblocker block ads, but hundreds of weird trackers that trace your activity. I recommend uBlock Origin, as it’s the current gold standard for browsing safely. It does all of the above, while also warning you about suspicious websites, offering protection from viruses and malware.\n\n\n\n\nLink to website\n\n\n\n\nuBlock Origin\nhttps://ublockorigin.com/\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nIf you’re using the Librewolf browser, it’s installed by default, so you don’t have to do anything!\n\n\n\n\nPassword Managers 🔒\nMost likely the largest vulnerability in your web browsing right now is your passwords. You’re probably using similar passwords for each of your logins, which leaves you open to being “hacked,” but it’s not your fault!\nPasswords are bad user design by nature. Luckily, there’s a solution that makes signing into things super fast, and it only requires memorizing one password: a password manager. It can autofill your login details almost instantaneously, and it also handles generating new, secure passwords for your new logins. Hell, it can even handle pesky 2-factor authentication codes! It does this all while being extremely secure, private, and convenient.\n\nThat sounds risky…\nYou might be feeling wary about giving a website all of your login information. But this is the zinger: by design, you don’t need to trust your password manager. Password managers use a special encryption technology that allows only you to access your passwords. That “one password” I mentioned earlier is called the master password, and is used to decrypt your login information, so in reality, the password manager can’t see a thing.\nThis video explains it better than I can, but back to the guide!\n\n\n\n\nLink to website\n\n\n\n\nBitwarden (free)\nhttps://bitwarden.com/\n\n\n1Password\nhttps://1password.com/\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nAs long as you pick a generally well-known and reputable one, it doesn’t really matter which password manager you choose. I use (and pay for) Bitwarden, and my Dad enjoys 1Password, but there are other great ones out there!\n\n\n\n\n\n\n\n\nImportant\n\n\n\nPlease, next to installing uBlock Origin, if there is one thing you take away from this guide, it should be signing up for a password manager! It will change your life, I guarentee it. You don’t deserve having to remember a million passwords!\n\n\n\n\n\nMmmm… Cookies 🍪\nSo we’ve taken care of those annoying ads, made logging in a click away, but what about those annoying “accept cookies” popups? By law, websites need these to get your consent before collecting data about you, but they make it very hard to say no. Consent-O-Matic takes care of this for you by atomatically selecting the most privacy-preserving option each time. Goodbye, cookies!\n\n\n\n\nLink to website\n\n\n\n\nConsent-O-Matic\nhttps://consentomatic.au.dk/",
+    "crumbs": [
+      "The Guide",
+      "Browser Extensions"
+    ]
+  },
+  {
+    "objectID": "browsers.html",
+    "href": "browsers.html",
+    "title": "Browsers",
+    "section": "",
+    "text": "WarningBeware Brave!\n\n\n\nDespite what online privacy guides recommend, DO NOT USE BRAVE! Brave is a private for-profit browser, and is notorious for a lot of gross cryptocurrency stuff. Also, the CEO sucks. Don’t use it! (More Info)\nA web browser is the app you click on to access the internet. Its job is to fetch and render all of the websites you visit. Because of this, which browser you choose has a large impact on your web experience.",
+    "crumbs": [
+      "The Guide",
+      "Browsers"
+    ]
+  },
+  {
+    "objectID": "browsers.html#firefox-chrome-and-forks",
+    "href": "browsers.html#firefox-chrome-and-forks",
+    "title": "Browsers",
+    "section": "Firefox, Chrome, and “Forks” 🍴",
+    "text": "Firefox, Chrome, and “Forks” 🍴\nThere are only two mainstream browsers: Chrome and Firefox. Most other browsers (Opera, Edge, Librewolf) are just slight variations of either Chrome or Firefox. These variations are called “forks.”\nHowever, these slight changes can mean a lot for privacy and web experience. In general, Firefox is usually faster and more private. However, generic Firefox still comes with some creepy code and a weird privacy policy, which is why I recommend using a Firefox fork such as Librewolf or Waterfox.",
+    "crumbs": [
+      "The Guide",
+      "Browsers"
+    ]
+  },
+  {
+    "objectID": "browsers.html#waterfox-and-librewolf",
+    "href": "browsers.html#waterfox-and-librewolf",
+    "title": "Browsers",
+    "section": "Waterfox 🌊 and Librewolf 🐺",
+    "text": "Waterfox 🌊 and Librewolf 🐺\nWaterfox and Librewolf are open source, community maintained “forks” of Firefox. They come with better default privacy options, and get rid of all the unnecessary junk like AI and feeds.\nIf you’re not a very tech-inclined person, I recommend you go with Waterfox, which focuses on usability. If you’re more tech-minded and want to maximize privacy, I recommend Librewolf, which is what I use. Both Waterfox and Librewolf are great choices and are massive privacy upgrades over stock Firefox and Chrome.\nIf you must use a Chrome-based browser (I highly recommend you don’t!) I recommend ungoogled-chromium, which is basically Chrome but without all of Google’s icky stuff, plus extra privacy enhancements.\n\n\n\n\nLink to website\n\n\n\n\nWaterfox 🌊\nhttps://www.waterfox.com/\n\n\nLibrewolf 🐺\nhttps://librewolf.net/\n\n\nUngoogled Chromium1\nhttps://ungoogled-software.github.io/ungoogled-chromium-binaries/\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nWhat about Opera? Opera is a chrome-based, closed-source, for-profit browser owned by a chinese company. Privacy-wise, it is not an upgrade over Chrome, so I don’t recommend it. It’s known for its free VPN, see my note on VPNS.\n\n\n\n\n\n\n\n\nNote\n\n\n\nFirefox is still a huge upgrade over Chrome, so if you’re deciding between the two, choose Firefox!\n\n\nNow that you’ve got a sweet new browser, kit it out with a search engine! 🔎",
+    "crumbs": [
+      "The Guide",
+      "Browsers"
+    ]
+  },
+  {
+    "objectID": "browsers.html#footnotes",
+    "href": "browsers.html#footnotes",
+    "title": "Browsers",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIf you’re on Windows, you’re going to want to click the “Windows 64-bit” download.↩︎",
+    "crumbs": [
+      "The Guide",
+      "Browsers"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "starterpack.html",
+    "href": "starterpack.html",
+    "title": "Starterpack",
+    "section": "",
+    "text": "Here are the links to my recommended web-browsing tools! For more info, see the pages on the guide.\n\n\n\n\nLink to website\n\n\n\n\nBrowser\nhttps://www.waterfox.com/\n\n\nSearch Engine\nhttps://start.duckduckgo.com/\n\n\nAdblocker\nhttps://ublockorigin.com/\n\n\nPassword Manager\nhttps://bitwarden.com/\n\n\nCookie Wrangler\nhttps://consentomatic.au.dk/"
+  },
+  {
+    "objectID": "on-vpns.html",
+    "href": "on-vpns.html",
+    "title": "A Note On VPNs",
+    "section": "",
+    "text": "One of the biggest myths about privacy is that you need a VPN to be private. The truth is, you probably don’t, and here’s why.",
+    "crumbs": [
+      "The Guide",
+      "A Note On VPNs"
+    ]
+  },
+  {
+    "objectID": "on-vpns.html#what-is-a-vpn",
+    "href": "on-vpns.html#what-is-a-vpn",
+    "title": "A Note On VPNs",
+    "section": "What is a VPN?",
+    "text": "What is a VPN?\nVPN stands for Virtual Private Network. When you connect to a VPN, your internet traffic is routed through another server before reaching its destination. This way, it appears as though you’re accessing the internet from another location.\nFor example, if I connected to a VPN in Canada from the USA and tried to watch YouTube, my internet traffic would go from my computer, to a server in Canada, and then to YouTube, instead of directly from my computer to YouTube.\nBecause it appears as if I’m accessing YouTube from Canada, I might be able to watch YouTube videos that are blocked in the USA. Also, it hides my IP address, which can be used to tell my approximate location in the USA.",
+    "crumbs": [
+      "The Guide",
+      "A Note On VPNs"
+    ]
+  },
+  {
+    "objectID": "on-vpns.html#why-you-probably-dont-need-one",
+    "href": "on-vpns.html#why-you-probably-dont-need-one",
+    "title": "A Note On VPNs",
+    "section": "Why you probably don’t need one",
+    "text": "Why you probably don’t need one\nUnless you live in certain countries (and some US states), you probably have access to everything you need to. It’s also unlikely that you need to worry about hiding your IP address from the websites you visit, as IP addresses are generally pretty public bits of information.\nFollowing this guide will do 10x more for your privacy than getting a VPN ever will, so don’t let NordVPN fool you into thinking you need one!\nYou should consider a VPN if you are…\n\na journalist\nan activist\na privacy freak (looking at you, Jasmine)\na member of an international hacking group\n\n…in THAT case, I recommend you use Mullvad VPN.\n\n\n\n\nLink to website\n\n\n\n\nMullvad VPN\nhttps://mullvad.net/en",
+    "crumbs": [
+      "The Guide",
+      "A Note On VPNs"
+    ]
+  }
+]

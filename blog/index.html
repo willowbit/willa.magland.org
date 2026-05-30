@@ -1,0 +1,21 @@
+---
+eleventyExcludeFromCollections: true
+layout: layout.html
+---
+
+<h1>My Blog</h1>
+
+<p>Thanks for checking out my blog! Posts here are usually unpolished and casual, but always mine. I've been blogging for over two years now, so older posts may not always reflect my current views.</p>
+
+<div style="display: flex; flex-direction: column; flex-grow: 2;">
+    {% for post in collections.published reversed %}
+    <div style="display: flex; flex-wrap: nowrap; padding-bottom: 7px;">
+        <div style="flex: 0 0 7em; padding-right: 7px;">
+            <em>{{ post.date | readableDate }}</em>
+        </div>
+        <div>
+            <a href="{{ post.url }}">{{ post.data.title }}</a><br>
+        </div>
+    </div>
+    {% endfor %}
+</div>

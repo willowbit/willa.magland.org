@@ -7,7 +7,7 @@ blurb: "The truth is, you can learn to love any music out there, you just have t
 
 > "I change during the course of a day. I wake and I'm one person, and when I go to sleep I know for certain I'm somebody else. I don't know who I am most of the time. It doesn't even matter to me." —Bob Dylan
 
-Music might be the closest thing I have to a religion. That's not to say that I'm not religious—if you know me well enough that's clear. But music is one of those things I can say I wholly believe in, to the extent that I indulge in it every day. How I listen to music, though, has changed a lot over my life, and over the past few years it's taken on a more ritualistic feeling.
+There is no version of me that does not like music. It feels like it is a part of me. I've changed how I listen to music a lot over the years, but it has always been there. Moving into the third decade of my life, I've been reflecting on how music affects me, and why I like it so much.
 
 I've long left playlists behind for albums, and instead of sampling a large variety of artists, I tend to commit to just one for weeks and months at end. How long I stick with them depends on how long it takes for it to do "the thing." One way to describe "the thing" could be: however long it takes for me to get killed.
 

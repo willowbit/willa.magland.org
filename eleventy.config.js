@@ -5,6 +5,7 @@ module.exports = async function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("**/*.jpg");
     eleventyConfig.addPassthroughCopy("**/*.png");
     eleventyConfig.addPassthroughCopy("bundle.js");
+    eleventyConfig.addPassthroughCopy("internet-guide")
 
     // Configure date time
     const {DateTime} = require("luxon");
@@ -32,7 +33,7 @@ module.exports = async function(eleventyConfig) {
 
     eleventyConfig.addPlugin(feedPlugin, {
         type: "rss", // or "rss", "json"
-        outputPath: "/feed.xml",
+        outputPath: "/rss.xml",
         collection: {
             name: "published", // iterate over `collections.posts`
             limit: 0, // 0 means no limit

@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
+backend:
+  name: github
+  repo: willowbit/willa.magland.org
+
+media_folder: /img
+public_folder: /img
+
+collections:
+  - name: blog
+    label: Blog
+    label_singular: Post
+    folder: /blog
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, type: date }
+      - { label: Draft, name: draft, widget: boolean, type: boolean }
+      - { label: Description, name: description, widget: richtext }
+      - { label: Body, name: body, widget: richtext }

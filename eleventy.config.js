@@ -5,7 +5,9 @@ module.exports = async function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("**/*.jpg");
     eleventyConfig.addPassthroughCopy("**/*.png");
     eleventyConfig.addPassthroughCopy("bundle.js");
-    eleventyConfig.addPassthroughCopy("internet-guide")
+    eleventyConfig.addPassthroughCopy("internet-guide");
+    eleventyConfig.addPassthroughCopy("admin");
+
 
     // Configure date time
     const {DateTime} = require("luxon");

@@ -12,6 +12,10 @@ collections:
     label: Blog
     label_singular: Post
     folder: /blog
+    media_folder: ''
+    nested:
+      depth: 100
+      subfolders: true
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Date, name: date, widget: datetime, type: date }

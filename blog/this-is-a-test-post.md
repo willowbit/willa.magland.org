@@ -1,7 +1,7 @@
 ---
 title: This is a test post!
 date: 2026-11-04
-draft: true
+draft: false
 description: Yippeeeee
 ---
 
